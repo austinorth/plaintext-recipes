@@ -1,11 +1,11 @@
 baseURL = 'https://www.plaintext.recipes/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Plaintext Recipes'
 theme = "smol"
 
 # Parameters
 [params]
-    subtitle = "Your blog subtitle goes here!"
+    subtitle = "A website serving plain text, but umami recipes >:)"
     dateFmt = "02.01.2006 15:04"
 
 # Header
@@ -31,16 +31,16 @@ theme = "smol"
 # Footer
   [[menu.footer]]
         name = "Github"
-        url = "https://github.com/example"
+        url = "https://github.com/austinorth/plaintext-recipes"
         weight = 1
 
     [[menu.footer]]
-        name = "Mastodon"
-        url = "https://example.com/@user"
+        name = "Twitter"
+        url = "https://twitter.com/HumbleBroski"
         weight = 2
 
     [[menu.footer]]
-        name = "Imprint"
-        url = "/imprint"
+        name = "Personal Site"
+        url = "https://austinorth.com"
         weight = 3
 
