@@ -1,4 +1,4 @@
-baseURL = 'https://www.plaintext.recipes/'
+baseURL = 'https://plaintext.recipes/'
 languageCode = 'en-us'
 title = 'Plaintext Recipes'
 theme = "smol"
