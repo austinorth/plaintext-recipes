@@ -3,7 +3,7 @@ title: "Chicken Fajita Quesadilla"
 date: 2021-12-17T22:11:17-05:00
 slug: 2021-12-17-chicken-fajita-quesadilla
 type: posts
-draft: true
+draft: false
 categories:
   - default
 tags:
