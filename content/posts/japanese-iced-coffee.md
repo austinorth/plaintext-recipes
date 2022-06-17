@@ -27,7 +27,7 @@ and clear serving sizes._
 - [V60 drip scale](https://www.hario-usa.com/collections/scales/products/v60-drip-scale)
 - [Electric gooseneck kettle](https://www.walmart.com/ip/Willsence-Gooseneck-Kettle-Temperature-Control-Pour-Over-Electric-Coffee-Tea-100-Stainless-Steel-Inner-1200W-Rapid-Heating-0-8L-Built-in-Stopwatch-Bl/870059197?athbdg=L1700)
 
-## 300ml Recipe
+## Coffee for One
 
 ### Ingredients
 - 120g ice
@@ -46,7 +46,7 @@ and clear serving sizes._
 9. Swirl the decanter until the remaining ice melts.
 10. Pour into highball glass over additional ice and serve.
 
-## 600ml Recipe
+## Coffee for Two
 
 ### Ingredients
 - 240g ice
