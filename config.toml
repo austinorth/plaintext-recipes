@@ -5,7 +5,7 @@ theme = "smol"
 
 # Parameters
 [params]
-    subtitle = "A website serving plain text, but umami recipes >:)"
+    subtitle = "A website for recipes written in Markdown, rendered in a plaintext-like format for easy reading! :)"
     dateFmt = "02.01.2006 15:04"
 
 # Header
