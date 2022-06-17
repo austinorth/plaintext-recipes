@@ -10,8 +10,7 @@ tags:
   - default
 ---
 _Adapted from [James Hoffmann's
-recipe](https://www.youtube.com/watch?v=PApBycDrPo0) with more even measurements
-and clear serving sizes._
+recipe](https://www.youtube.com/watch?v=PApBycDrPo0)._
 
 ## Equipment
 - Pourover dripper
