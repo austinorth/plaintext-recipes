@@ -9,7 +9,7 @@ categories:
 tags:
   - default
 ---
-Ingredients
+### Ingredients
 - 1 tablespoon olive oil
 - 1/2 lb chicken breast, cut into thin strips
 - 1/2 teaspoon salt
@@ -24,22 +24,22 @@ Ingredients
 - 1 cup shredded cheddar cheese, double for 2 quesadillas
 - 1 cup shredded monterey jack cheese, double for 2 quesadillas
 
-Garnish
+### Garnish
 - fresh cilantro
 - guacamole
 - sour cream
 - pico de gallo, or salsa
 
-Preparation
-- In a large skillet, heat olive oil on Medium heat for about 2 minutes.
-- Add chicken to skillet and coat chicken with salt, pepper, chili
+### Preparation
+1. In a large skillet, heat olive oil on Medium heat for about 2 minutes.
+2. Add chicken to skillet and coat chicken with salt, pepper, chili
   powder, cumin, cayenne, and garlic powder. Cook 5-7 minutes.
-- Add the peppers and onions and cook for 5-7 minutes, or until they are
+3. Add the peppers and onions and cook for 5-7 minutes, or until they are
   soft. Remove chicken, onions and peppers from the pan and set aside.
-- Place the tortilla in the skillet and add a layer of cheese on half of
+4. Place the tortilla in the skillet and add a layer of cheese on half of
   the tortilla.
-- Add cooked chicken, peppers and onions. Top with more cheese and fold
+5. Add cooked chicken, peppers and onions. Top with more cheese and fold
   the tortilla in half.
-- Cook for 6 minutes over medium heat, flipping half way.
-- Garnish with fresh cilantro and serve with pico de gallo, guacamole,
+6. Cook for 6 minutes over medium heat, flipping half way.
+7. Garnish with fresh cilantro and serve with pico de gallo, guacamole,
   and sour cream on the side.
